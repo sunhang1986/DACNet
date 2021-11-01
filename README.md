@@ -1,4 +1,4 @@
-Feature Correlation Abstraction and Contrastive Learning Constraint for Point Cloud Classification
+Feature Correlation Fusion and Contrastive Learning Constraint for Point Cloud Classification
 ==
 Created by [Yuanyue Zhang](https://github.com/yy-zhang832), [Hang Sun](https://github.com/sunhang1986), Shuifa Sun from Department of Computer and Information, China Three Gorges University.
 
