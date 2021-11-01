@@ -3,7 +3,7 @@ Feature Correlation Fusion and Contrastive Learning Constraint for Point Cloud C
 Created by [Yuanyue Zhang](https://github.com/yy-zhang832), [Hang Sun](https://github.com/sunhang1986), Shuifa Sun from Department of Computer and Information, China Three Gorges University.
 
 ### Introduction
-Our paper proposes  a network with features correlation abstraction and contrastive learning constraints (FCACR-Net) for point cloud classification. It can benefit from channel and positional information to strengthen the interaction between local features respectively and improve the capability of feature extraction of the network.
+Our paper proposes  a network with features correlation abstraction and contrastive learning constraints (FCFCR-Net) for point cloud classification. It can benefit from channel and positional information to strengthen the interaction between local features respectively and improve the capability of feature extraction of the network.
 
 ### Prerequisites
 + Tensorflow 1.3.0
